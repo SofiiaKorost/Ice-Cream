@@ -5,7 +5,7 @@
   "homepage": "https://SofiiaKorost.github.io/Ice-Cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /dream-team-project/"
+    "build": "parcel build src/*.html --public-url /Ice-Cream/"
   },
   "repository": {
     "type": "git",
